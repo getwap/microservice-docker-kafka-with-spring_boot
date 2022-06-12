@@ -63,7 +63,7 @@ Open Test.rest file for api request description. If you use vcode, you can test 
 
 ## Used Tech
 - Spring Boot 2.3.0 
-- Java Messaging Service (Apache ActiveMQ)
+- Java Messaging Service (Apache kafka)
 - Microservices
 - Docker Containerization
 - JPA(Hibernate)
